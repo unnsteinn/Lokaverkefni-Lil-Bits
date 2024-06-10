@@ -5,8 +5,8 @@ export default function Contact() {
     return (
         <div className="flex justify-center">
             <Card className="flex-col p-10 w-full md:w-2/3 xl:w-1/3">
-                <CardTitle className="flex justify-center pb-10">
-                    <h2>Contact Lil Bits</h2>
+                <CardTitle className="flex justify-center text-4xl pb-8">
+                    Contact Lil Bits
                 </CardTitle>
                 <div className="flex justify-center">
                     <CardContent className="">
